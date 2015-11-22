@@ -17,7 +17,7 @@ It has these top-level messages:
 */
 package api
 
-import proto "code.google.com/p/gogoprotobuf/proto"
+import proto "github.com/gogo/protobuf/proto"
 import json "encoding/json"
 import math "math"
 
