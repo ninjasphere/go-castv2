@@ -8,7 +8,6 @@ import (
 	"net"
 
 	"github.com/gogo/protobuf/proto"
-
 	"github.com/ninjasphere/go-castv2/api"
 )
 
